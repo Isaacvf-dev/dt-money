@@ -1,0 +1,21 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-08-20T19:18:19.130Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 70,
+      "createdAt": "2024-08-20T19:16:21.644Z"
+    }
+    
+  ]
+}
